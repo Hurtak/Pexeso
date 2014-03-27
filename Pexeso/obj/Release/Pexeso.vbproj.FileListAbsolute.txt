@@ -1,0 +1,14 @@
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\bin\Release\Pexeso.exe.config
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\bin\Release\Pexeso.exe
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\bin\Release\Pexeso.pdb
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\bin\Release\Pexeso.xml
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.frmGameplay.resources
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.frmGameSelect.resources
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.frmHelp.resources
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.frmMainMenu.resources
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.frmStats.resources
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.Resources.resources
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.vbproj.GenerateResource.Cache
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.exe
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.xml
+C:\Users\Petr\Dropbox\VBA\Pexeso\Pexeso\obj\Release\Pexeso.pdb

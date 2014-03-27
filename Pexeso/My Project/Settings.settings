@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="L1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player1;Player2;Player3;Player4;Player5;Player6;Player7;Player8;Player9;Player10</Value>
+    </Setting>
+    <Setting Name="L3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player1;Player2;Player3;Player4;Player5;Player6;Player7;Player8;Player9;Player10</Value>
+    </Setting>
+    <Setting Name="L5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Player1;Player2;Player3;Player4;Player5;Player6;Player7;Player8;Player9;Player10</Value>
+    </Setting>
+    <Setting Name="L2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00:15;00:20;00:25;00:30;00:35;00:40;00:45;00:50;00:55;01:00</Value>
+    </Setting>
+    <Setting Name="L4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">01:10;01:15;01:20;01:25;01:30;01:35;01:40;01:45;01:50;01:55</Value>
+    </Setting>
+    <Setting Name="L6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">02:00;02:10;02:20;02:30;02:40;02:50;03:00;04:10;04:20;04:30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
