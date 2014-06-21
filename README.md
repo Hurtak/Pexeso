@@ -18,11 +18,5 @@
 <img src="http://i.imgur.com/0QoSyp7.png">
 <img src="http://i.imgur.com/0g7wYxh.png">
 
-
 ## Help
 <img src="http://i.imgur.com/cvFjIRV.png">
-
-
-
-
-
